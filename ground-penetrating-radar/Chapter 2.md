@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This chapter focuses on elucidating the procedures employed for processing Ground Penetrating Radar (GPR) data obtained from our laboratory specimen. <a href="https://doi.org/10.1016/j.conbuildmat.2018.08.127">[3]</a> The structure under examination within our laboratory setting replicates a section of a concrete bridge with embedded reinforcement bars (rebar). Our GPR data processing involves implementing advanced techniques for time-zero correction and F-K migration, ensuring a precise representation of the rebar configuration within the specimen.
 
 ### Step 1. Read the saved CSV files
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We need to read the saved CSV files to process further. Let’s use the read_csv function to define two Pandas data frames. After that, we set each row of config data as a local variable in Python.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We need to read the saved CSV files to process further. Let’s use the `read_csv` function to define two Pandas data frames. After that, we set each row of config data as a local variable in Python.
 
 ```
 user_directory = "C:/Your_directory"
