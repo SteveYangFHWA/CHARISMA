@@ -30,7 +30,7 @@ Figure 2. GPR data acquisition on the bridge (Left) and how GPR B-scan data look
 URL to download conda: [https://www.anaconda.com/download](https://www.anaconda.com/download)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We recommend to install our conda environment (`charisma-env`) to run the code properly. This environment has all the dependencies from our entire code. Download the `charisma-env.yml` file from our CHARISMA Github first, open your Anaconda Prompt, and go to the “Downloads” directory. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We recommend installing our conda environment (`charisma-env`) to run the code properly. This environment has all the dependencies from our entire code. Download the `charisma-env.yml` file from our CHARISMA Github first, open your Anaconda Prompt, and go to the “Downloads” directory. 
 
 
 To create charisma-env with conda, run the following command in your root environment:
