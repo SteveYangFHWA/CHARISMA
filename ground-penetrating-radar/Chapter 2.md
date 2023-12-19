@@ -53,7 +53,7 @@ Table 1. Relative Dielectric Permittivity for Different Materials. <a href="http
 
 
 <p align="center">
-  <img src="https://github.com/SteveYangFHWA/GPR-test/assets/154262555/a1c507d7-7d12-44db-af33-67b73e1acb5b" alt="image">
+  <img src="https://github.com/SteveYangFHWA/CHARISMA/assets/154262555/643a0ea5-c5e1-4e7b-884e-d3245c2e8d65" alt="image">
 </p>
 
 Figure 3. Comparison of (a) scan-by-scan time-zero correction and (b) without time-zero correction on our GPR data.
