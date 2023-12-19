@@ -56,7 +56,7 @@ Table 1. Relative Dielectric Permittivity for Different Materials. <a href="http
   <img src="https://github.com/SteveYangFHWA/CHARISMA/assets/154262555/643a0ea5-c5e1-4e7b-884e-d3245c2e8d65" alt="image">
 </p>
 
-Figure 3. Comparison of (a) scan-by-scan time-zero correction and (b) without time-zero correction on our GPR data.
+Figure 3. Comparison of (a) before time-zero correction and (b) after scan-by-scan time-zero correction on our GPR data.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are multiple methods of time-zero correction, one method is calculating the mean or median value of the first peak’s arrival time for the entire A-scans and align them based on the mean or median value.<a href="https://erdc-library.erdc.dren.mil/jspui/handle/11681/45621">[7]</a> However, this method is not robust since the time-zero position is not perfectly aligning with all the 1st positive peaks of the A-scans (see Figure 4). This method does not correspond with our assumption that the first positive peak of each A-scan represents the 0 m depth of the ground surface.
 
